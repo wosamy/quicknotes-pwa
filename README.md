@@ -1,3 +1,6 @@
+Our PWA, QuickNotes, is designed to let users create, view, and manage notes even without an active network connection. 
+The app will showcase key PWA features offline support, caching, and background sync integrated with Next.js. In this presentation, we’ll cover the file structure setup, manifest configuration, service worker registration, and a basic user interface, culminating in a deployable  PWA.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
